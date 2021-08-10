@@ -10,3 +10,4 @@ Solutions for the Gitcoin Nervos Hackathon bounties
 - [Task 4](task4)
 - [Task 5](task5)
 - [Task 6](task6)
+- [Task 9](task9)
